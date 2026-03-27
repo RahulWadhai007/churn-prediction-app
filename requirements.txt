@@ -1,0 +1,10 @@
+# Web framework
+streamlit
+
+# Machine Learning (using the lighter CPU version as discussed)
+tensorflow-cpu
+
+# Data processing (Standard libraries usually needed for churn data)
+pandas
+numpy
+scikit-learn
